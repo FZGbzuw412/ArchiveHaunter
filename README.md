@@ -17,7 +17,7 @@ SOFTWARE.
 + zipfile
 + argparse
 + py7zr
-+ 
+
 ## Usage
 ```
 #clone repository

@@ -32,18 +32,21 @@ pip3 install -r requirements.txt
 #launch .py file
 ArchiveHaunter.py -a <archive> -d <dictionary> -o <output>
 ```
-##Note
+## Note
 ArchiveHaunter application is intended for cracking only .zip and .7z archives.
 
-##Options
+## Options
 
--h, --help          show this help message and exit
--a <archive>, --archive <archive>
-                    path to archive
--d <dictionaty>, --dictionary <dictionaty>
-                    path to password dictionary file
--o OUTPUT, --output OUTPUT
-                    path to output file
+-h, --help: show this help message and exit
+
+
+-a <archive>, --archive <archive>: path to archive
+  
+  
+-d <dictionaty>, --dictionary <dictionaty>: path to password dictionary file
+  
+  
+-o OUTPUT, --output OUTPUT: path to output file
 
 ## Screenshots
   
